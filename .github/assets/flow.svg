@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+<defs><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04"/></pattern>
+<linearGradient id="tq" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7CF7EA"/><stop offset="1" stop-color="#0FB5A6"/></linearGradient></defs>
+<rect width="1280" height="300" rx="18" fill="#04070A"/><rect width="1280" height="300" rx="18" fill="url(#g)"/>
+<rect x="0.5" y="0.5" width="1279" height="299" rx="18" fill="none" stroke="#19E3CF" stroke-opacity="0.25"/>
+<text x="48" y="54" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2.5" fill="#19E3CF">THE PATH  //  ~1 MIN PER STEP</text>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#6C7A80"><text x="980" y="54">00:00</text><line x1="1040" y1="50" x2="1170" y2="50" stroke="#19E3CF" stroke-opacity="0.5" stroke-dasharray="2 5"/><text x="1232" y="54" text-anchor="end">05:00</text></g>
+
+<line x1="158.0" y1="96" x2="1110.0" y2="96" stroke="#19E3CF" stroke-opacity="0.6" stroke-width="2"/>
+<circle r="5" fill="#7CF7EA" cy="96" cx="158.0"><animate attributeName="cx" values="158.0;1110.0" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="158.0" cy="96" r="9" fill="#04070A" stroke="#19E3CF" stroke-width="2"/><circle cx="158.0" cy="96" r="3.5" fill="#19E3CF"/>
+<rect x="48" y="128" width="220" height="132" rx="12" fill="#0A1012" stroke="#19E3CF" stroke-opacity="0.28"/>
+<text x="68" y="162" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#19E3CF">01</text>
+<text x="68" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" fill="#FFFFFF">ACTIVATE</text>
+<text x="68" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D4D8">iLok license</text>
+<text x="68" y="243" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#6C7A80">before the DAW</text>
+<circle cx="396.0" cy="96" r="9" fill="#04070A" stroke="#19E3CF" stroke-width="2"/><circle cx="396.0" cy="96" r="3.5" fill="#19E3CF"/>
+<rect x="286" y="128" width="220" height="132" rx="12" fill="#0A1012" stroke="#19E3CF" stroke-opacity="0.28"/>
+<text x="306" y="162" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#19E3CF">02</text>
+<text x="306" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" fill="#FFFFFF">LOAD</text>
+<text x="306" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D4D8">as an instrument</text>
+<text x="306" y="243" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#6C7A80">not an effect</text>
+<circle cx="634.0" cy="96" r="9" fill="#04070A" stroke="#19E3CF" stroke-width="2"/><circle cx="634.0" cy="96" r="3.5" fill="#19E3CF"/>
+<rect x="524" y="128" width="220" height="132" rx="12" fill="#0A1012" stroke="#19E3CF" stroke-opacity="0.28"/>
+<text x="544" y="162" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#19E3CF">03</text>
+<text x="544" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" fill="#FFFFFF">PREP</text>
+<text x="544" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D4D8">one dry vocal</text>
+<text x="544" y="243" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#6C7A80">WAV · under 45s</text>
+<circle cx="872.0" cy="96" r="9" fill="#04070A" stroke="#19E3CF" stroke-width="2"/><circle cx="872.0" cy="96" r="3.5" fill="#19E3CF"/>
+<rect x="762" y="128" width="220" height="132" rx="12" fill="#0A1012" stroke="#19E3CF" stroke-opacity="0.28"/>
+<text x="782" y="162" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#19E3CF">04</text>
+<text x="782" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" fill="#FFFFFF">CREATE</text>
+<text x="782" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D4D8">Gospel + U67</text>
+<text x="782" y="243" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#6C7A80">layers off</text>
+<circle cx="1110.0" cy="96" r="9" fill="#04070A" stroke="#19E3CF" stroke-width="2"/><circle cx="1110.0" cy="96" r="3.5" fill="#19E3CF"/>
+<rect x="1000" y="128" width="220" height="132" rx="12" fill="#0B1F1F" stroke="#19E3CF" stroke-opacity="0.8"/>
+<text x="1020" y="162" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#19E3CF">05</text>
+<text x="1020" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="24" fill="#FFFFFF">DRAG OUT</text>
+<text x="1020" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#C9D4D8">to an audio track</text>
+<text x="1020" y="243" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#6C7A80">in sync. done.</text>
+</svg>
